@@ -1,0 +1,161 @@
+{
+  "listings": [
+    {
+      "id": 1,
+      "name": "Beach Paradise Resort",
+      "description": "A luxurious beachfront resort with stunning views and modern amenities.",
+      "isdiscount": true,
+      "city": "Goa",
+      "country": "India",
+      "images": ["beach1.jpg", "beach2.jpg"],
+      "HolidayPackages": [
+        {
+          "id": 101,
+          "name": "Goa Beach Holiday",
+          "price": 20000,
+          "percentageDiscount": 20,
+          "location": "Goa, India",
+          "itinerary": "Day 1: Arrival, Day 2: Beach Tour, Day 3: Sightseeing",
+          "visitors": 50,
+          "startTime": "10:00 AM",
+          "leavingTime": "5:00 PM",
+          "duration": "3 Days",
+          "image": "goa1.jpg"
+        },
+        {
+          "id": 102,
+          "name": "Goa Luxury Escape",
+          "price": 35000,
+          "percentageDiscount": 55,
+          "location": "Goa, India",
+          "itinerary": "Day 1: Arrival, Day 2: Private Beach, Day 3: Spa & Relaxation",
+          "visitors": 30,
+          "startTime": "11:00 AM",
+          "leavingTime": "6:00 PM",
+          "duration": "3 Days",
+          "image": "goa2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Swiss Alps Retreat",
+      "description": "An elegant retreat in the heart of the Swiss Alps with breathtaking mountain views.",
+      "isdiscount": false,
+      "city": "Zurich",
+      "country": "Switzerland",
+      "images": ["swiss1.jpg", "swiss2.jpg"],
+      "HolidayPackages": [
+        {
+          "id": 103,
+          "name": "Swiss Adventure",
+          "price": 50000,
+          "percentageDiscount": 25,
+          "location": "Zurich, Switzerland",
+          "itinerary": "Day 1: Mountain Trek, Day 2: Skiing, Day 3: City Tour",
+          "visitors": 40,
+          "startTime": "9:00 AM",
+          "leavingTime": "4:00 PM",
+          "duration": "4 Days",
+          "image": "swiss1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Desert Safari Experience",
+      "description": "An unforgettable desert adventure with thrilling dune rides and cultural performances.",
+      "isdiscount": true,
+      "city": "Dubai",
+      "country": "UAE",
+      "images": ["desert1.jpg", "desert2.jpg"],
+      "HolidayPackages": [
+        {
+          "id": 104,
+          "name": "Dubai Desert Safari",
+          "price": 18000,
+          "percentageDiscount": 10,
+          "location": "Dubai, UAE",
+          "itinerary": "Day 1: Arrival, Day 2: Desert Safari, Day 3: Shopping",
+          "visitors": 100,
+          "startTime": "5:00 PM",
+          "leavingTime": "10:00 PM",
+          "duration": "3 Days",
+          "image": "dubai1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Maldives Island Getaway",
+      "description": "A paradise island retreat with overwater villas and crystal-clear lagoons.",
+      "isdiscount": false,
+      "city": "Male",
+      "country": "Maldives",
+      "images": ["maldives1.jpg", "maldives2.jpg"],
+      "HolidayPackages": [
+        {
+          "id": 105,
+          "name": "Maldives Honeymoon Special",
+          "price": 80000,
+          "percentageDiscount": 5,
+          "location": "Male, Maldives",
+          "itinerary": "Day 1: Arrival, Day 2: Snorkeling, Day 3: Luxury Stay",
+          "visitors": 20,
+          "startTime": "12:00 PM",
+          "leavingTime": "8:00 PM",
+          "duration": "4 Days",
+          "image": "maldives1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Tokyo City Lights",
+      "description": "Explore the bustling city of Tokyo, featuring neon lights and cultural experiences.",
+      "isdiscount": true,
+      "city": "Tokyo",
+      "country": "Japan",
+      "images": ["tokyo1.jpg", "tokyo2.jpg"],
+      "HolidayPackages": [
+        {
+          "id": 106,
+          "name": "Tokyo Urban Adventure",
+          "price": 60000,
+          "percentageDiscount": 15,
+          "location": "Tokyo, Japan",
+          "itinerary": "Day 1: Arrival, Day 2: City Tour, Day 3: Theme Parks",
+          "visitors": 70,
+          "startTime": "8:00 AM",
+          "leavingTime": "6:00 PM",
+          "duration": "3 Days",
+          "image": "tokyo1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Santorini Sunset Escape",
+      "description": "A romantic getaway to Santorini with stunning sunset views and white-washed houses.",
+      "isdiscount": false,
+      "city": "Santorini",
+      "country": "Greece",
+      "images": ["santorini1.jpg", "santorini2.jpg"],
+      "HolidayPackages": [
+        {
+          "id": 107,
+          "name": "Santorini Dream Vacation",
+          "price": 70000,
+          "percentageDiscount": 10,
+          "location": "Santorini, Greece",
+          "itinerary": "Day 1: Arrival, Day 2: Sunset Cruise, Day 3: Island Tour",
+          "visitors": 35,
+          "startTime": "10:00 AM",
+          "leavingTime": "7:00 PM",
+          "duration": "4 Days",
+          "image": "santorini1.jpg"
+        }
+      ]
+    }
+  ]
+}
